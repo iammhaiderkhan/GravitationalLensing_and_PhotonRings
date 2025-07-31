@@ -1,6 +1,3 @@
-# I have no idea what is happening. Probably useless now
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 import math
