@@ -3,7 +3,7 @@
 This repository contains Python scripts used to solve and analyze gravitational lensing problems in the Ernst Spacetime. The project is part of my master's research on Gravitational Lensing and Photon rings in magnetized black hole environments.
 
 ## 📄 Project Report
-For a full explanation of the methodology, results, and conclusions, please see the Report (./Lensing_and_Photon_Rings_in_a_Magnetized_Black_Hole_Environment__Copy.pdf).
+For a full explanation of the methodology, results, and conclusions, please see the Report (./Lensing and Photon Rings in a Magnetized Black Hole Spacetime.pdf).
 
 ## 🗂 Contents
 
